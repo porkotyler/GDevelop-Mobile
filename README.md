@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xKWE74v.png)
 
-A mobile application that launches the GDevelop game engine from your phone allowing you to develop games on the go. GDevelop is a full-featured, open-source game development software, allowing to create desktop and mobile games without any knowledge in a specific programming language. All the game logic is built up using an intuitive and powerful event-based system.
+A mobile application that launches the GDevelop game engine from your phone allowing you to develop games on the go. GDevelop is a full-featured, open-source game development software, that allows you to create desktop and mobile games without any programming knowledge. All the game logic is built up using an intuitive and powerful event-based system.
 
 ![](https://raw.githubusercontent.com/4ian/GDevelop/master/Core/docs/images/demo.gif)
 
