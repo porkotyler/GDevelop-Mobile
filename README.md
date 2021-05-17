@@ -4,7 +4,7 @@ GDevelop is a full-featured, open-source game development software, allowing to 
 
 ![](https://raw.githubusercontent.com/4ian/GDevelop/master/Core/docs/images/demo.gif)
 
-## ONLY THE ANDROID VERSION IS INCLUDED IN THIS REPOSITORY (iOS Coming Soon)
+## ONLY THE ANDROID VERSION IS INCLUDED IN THIS REPOSITORY
 
 This is a mobile version for [Facebook instant game developers](https://developers.facebook.com/) that launches the GDevelop game engine from your phone allowing you to develop instant games on the go. Although the app is fully operational it's not meant to be a final product but a functional demo or mvp meant for Florian Rival and the GDevelop community in general in case they ever choose to go down the mobile route.
 
