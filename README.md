@@ -10,11 +10,11 @@ This is a mobile version for [Facebook instant game developers](https://develope
 
 ## Why GDevelop Mobile?
 
-I read an eye-opening [study](https://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/) that claims Facebook is synonymous with the internet in some parts of the world and how users in 3rd world countries use their phones the same way the rest of us use our computers. Why leave these parts of the world out and not give them a chance to become fully-fledged game developers by using Facebook’s developer tools? Facebook allows users to publish games on its platform but it doesn’t provide any usable game engines so this is where GDevelop comes into play.
+[Studies](https://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/) claim that Facebook with its many apps and functionalities is synonymous with the entire internet in some parts of the world, and users in 3rd world countries use their phones the same way the rest of us use our desktop computers. Facebook allows users to publish games on its platform but it doesn’t provide any usable game engines (let alone for mobile) so this is where GDevelop comes into play.
 
-I noticed that the engine has a browser version but no mobile apps in the making, so as a member of the open source community myself I took the liberty of transforming the existing browser functionality into a working mobile app to showcase the merits of a possible GDevelop Mobile Edition. If someone who lives in a household with only a cheap smartphone at their disposal can use this to make games then that's a cool thing to have out there in the world. The best part is that GDevelop is free and easy, with no entry barriers for aspiring developers in underdeveloped countries.
+The engine has a very convenient browser version but no mobile apps in the making, therefore as a member of the GDevelop community myself I took the liberty of transforming the existing browser functionality into a working mobile app to showcase the merits of a possible GDevelop Mobile edition. If someone who lives in a household with only a cheap smartphone at their disposal can use this to make fun games then that's a cool thing to have out there in the world, plus it promotes the democratization of Facebook's developer tools. The best part is that GDevelop is free and easy, with no entry barriers for aspiring developers.
 
-![](https://i.imgur.com/VZfD8uW.jpg)
+![](https://i.imgur.com/L50JNrv.jpg)
 
 ## Authors
 
